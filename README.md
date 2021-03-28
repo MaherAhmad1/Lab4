@@ -8,3 +8,10 @@ A variable is the amount of space the computer will reserve for the code. Spam, 
 
 ### Rastor VS Vector
 The two examples of grpahics in the section we read were raster and vector, lets talk about it. Raster is when you zoom in a picture and are able to make out the thousands or millions of pixels. On the other hand vector is when you are able to zoom in and lose zero quality to the image because it will be non pixalated and use a special form of geometry. The use of vector is best for when making logos, artwork, etchings, and stuff of that sort. The use of rastor is best used for non-line art, scanned artwork, detailed grpahics, and stuff of that sort. 
+
+### Lossless VS Lossy Compression
+The use of lossless vs Lossy is an important one to developers because they may be capped to a certain data limit and choosing whihch one they are able to use can let them spare resources to other departments that may need it more. 
+
+### File Formats
+There are a few different file formats that we read about in this section, they were jpg,gif, and png files. The similarities between all of them are that they all support the RGB color pallet, can support a decent amount of data in a file size, and are able to show animated or static pictures. The main differences between the three of them are that png uses lossless, jpeg uses lossy, and gif uses lossless as well. 
+
