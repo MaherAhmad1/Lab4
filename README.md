@@ -15,3 +15,8 @@ The use of lossless vs Lossy is an important one to developers because they may 
 ### File Formats
 There are a few different file formats that we read about in this section, they were jpg,gif, and png files. The similarities between all of them are that they all support the RGB color pallet, can support a decent amount of data in a file size, and are able to show animated or static pictures. The main differences between the three of them are that png uses lossless, jpeg uses lossy, and gif uses lossless as well. 
 
+### File Properties
+My image design was just the basic Gatorade logo because I had some near me and though it would be easy enough for someone with zero experience. The layers that it took to make were only 3 and it seems simple enough to make for anyone who wants to try. My file size was 284 Kb and the software used to open it was microsoft edge using an HTML document. I do not think there is a more appropiate application to open it with because edge is doing it just fine with zero problems. 
+
+# Conclusion
+This was a fun lab to go through and doing all of these things gave me a better understanding of how the real world computer industry opperates. Overall I think this was one of the more interactive lessons and it was an enjoyable experience. 
